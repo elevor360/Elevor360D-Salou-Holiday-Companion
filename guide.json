@@ -1,0 +1,308 @@
+{
+  "version": "3.0",
+  "destination": "Salou, Costa Daurada",
+  "updated": "2026-11-01",
+  "intro": "Explore Salou on Spain’s Costa Daurada: golden beaches, a lively promenade, family attractions and nearby Tarragona. Plan your holiday and save memorable visits and photos on your device.",
+  "areas": [
+    {
+      "name": "Salou town centre",
+      "description": "Shops, restaurants and lively streets near the main beachfront."
+    },
+    {
+      "name": "Llevant beachfront",
+      "description": "The central beach and Jaume I promenade, convenient for families."
+    },
+    {
+      "name": "Cap Salou",
+      "description": "Quieter coves and rocky headlands east of the main resort."
+    },
+    {
+      "name": "Ponent area",
+      "description": "Broad beach and seafront stretching towards Cambrils."
+    },
+    {
+      "name": "La Pineda",
+      "description": "Neighbouring coastal resort with a long beach and family facilities."
+    },
+    {
+      "name": "Cambrils",
+      "description": "Nearby fishing town known for its marina and restaurants."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "PortAventura Park",
+      "description": "Major theme park near Salou; check tickets, schedules and height restrictions."
+    },
+    {
+      "name": "Ferrari Land",
+      "description": "Motorsport-themed park within the PortAventura World resort."
+    },
+    {
+      "name": "Passeig de Jaume I",
+      "description": "Seafront promenade with palm trees, fountains and places to relax."
+    },
+    {
+      "name": "Camí de Ronda",
+      "description": "Coastal path with viewpoints and coves; some sections have steps."
+    },
+    {
+      "name": "Salou Lighthouse",
+      "description": "Scenic coastal viewpoint on Cap Salou; check access."
+    },
+    {
+      "name": "Torre Vella",
+      "description": "Historic tower and cultural landmark in Salou."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Reus Airport",
+      "description": "Nearby airport serving the Costa Daurada; check seasonal routes and transfers."
+    },
+    {
+      "name": "Barcelona Airport",
+      "description": "Larger airport farther away; check coach, rail and transfer options."
+    },
+    {
+      "name": "Local buses",
+      "description": "Check current services to Cambrils, La Pineda and Tarragona."
+    },
+    {
+      "name": "Rail connections",
+      "description": "Check current railway stations and routes; central Salou station services have changed."
+    },
+    {
+      "name": "Taxis",
+      "description": "Use licensed taxis and confirm fares for longer journeys."
+    },
+    {
+      "name": "Walking and cycling",
+      "description": "The promenade is popular; coastal paths may be steep or stepped."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Dial 112 in Spain."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€); check card fees."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check UK government passport and entry guidance before travel."
+    },
+    {
+      "name": "Language",
+      "description": "Catalan and Spanish are widely used; English is common in tourist areas."
+    },
+    {
+      "name": "Beach safety",
+      "description": "Follow beach flags, lifeguards and local swimming restrictions."
+    },
+    {
+      "name": "Time zone",
+      "description": "Mainland Spain is normally one hour ahead of the UK."
+    },
+    {
+      "name": "Theme park planning",
+      "description": "Check official opening dates, tickets and ride restrictions before visiting."
+    }
+  ],
+  "links": [
+    {
+      "name": "Spain travel advice (UK)",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "Salou tourism (official)",
+      "url": "https://www.visitsalou.eu/"
+    },
+    {
+      "name": "PortAventura World (official)",
+      "url": "https://www.portaventuraworld.com/en"
+    },
+    {
+      "name": "Tarragona tourism (official)",
+      "url": "https://www.tarragonaturisme.cat/en"
+    },
+    {
+      "name": "Reus Airport (Aena)",
+      "url": "https://www.aena.es/en/reus.html"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Salou local advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Llevant Beach",
+      "description": "Large central beach with a promenade and facilities."
+    },
+    {
+      "name": "Ponent Beach",
+      "description": "Broad beach stretching west from the town centre."
+    },
+    {
+      "name": "Capellans Beach",
+      "description": "Smaller sheltered beach with nearby restaurants."
+    },
+    {
+      "name": "Llarga Beach",
+      "description": "Long sandy beach backed by greenery."
+    },
+    {
+      "name": "Cala Crancs",
+      "description": "Picturesque cove in Cap Salou; access may include steps."
+    },
+    {
+      "name": "Cala Font",
+      "description": "Compact cove with clear water and nearby eateries."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Salou shops",
+      "description": "Browse shops and local businesses around the centre."
+    },
+    {
+      "name": "Weekly markets",
+      "description": "Check the current local market day, location and seasonal schedule."
+    },
+    {
+      "name": "Cambrils market",
+      "description": "Visit nearby Cambrils for market stalls and shopping; confirm times."
+    },
+    {
+      "name": "Local supermarkets",
+      "description": "Convenient groceries and holiday essentials; check Sunday opening."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Salou centre",
+      "description": "Bars, cafés and evening entertainment; venues change seasonally."
+    },
+    {
+      "name": "Seafront promenade",
+      "description": "Relaxed evening stroll and beachfront dining."
+    },
+    {
+      "name": "Capellans area",
+      "description": "Restaurants and bars near the beach."
+    },
+    {
+      "name": "Family entertainment",
+      "description": "Look for seasonal shows and activities at local venues."
+    }
+  ],
+  "family": [
+    {
+      "name": "PortAventura World",
+      "description": "Theme park day out; reserve tickets and check opening dates."
+    },
+    {
+      "name": "Llevant Beach",
+      "description": "Beach day with nearby facilities and food options."
+    },
+    {
+      "name": "Coastal boat trips",
+      "description": "Choose licensed operators and check weather and sailing times."
+    },
+    {
+      "name": "Camí de Ronda viewpoints",
+      "description": "Short family-friendly sections where suitable; check steps and terrain."
+    },
+    {
+      "name": "Aquópolis Costa Daurada",
+      "description": "Water park in nearby La Pineda; check seasonal opening."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Seafront restaurants",
+      "description": "Beachfront cafés and restaurants around Llevant and Ponent."
+    },
+    {
+      "name": "Spanish tapas",
+      "description": "Try tapas bars and local Mediterranean dishes."
+    },
+    {
+      "name": "Seafood and rice dishes",
+      "description": "Look for seafood, paella and Catalan-style rice dishes."
+    },
+    {
+      "name": "Cambrils dining",
+      "description": "Nearby harbour area known for seafood restaurants."
+    },
+    {
+      "name": "Family dining",
+      "description": "Plenty of casual options around the central resort."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Tarragona",
+      "description": "Roman amphitheatre, historic old town and seafront."
+    },
+    {
+      "name": "Cambrils",
+      "description": "Marina, seafood restaurants and beaches."
+    },
+    {
+      "name": "Reus",
+      "description": "Modernist architecture, shopping and Gaudí-related heritage."
+    },
+    {
+      "name": "Barcelona",
+      "description": "Longer day trip by train or coach; plan return times."
+    },
+    {
+      "name": "La Pineda",
+      "description": "Neighbouring beach resort and water park."
+    },
+    {
+      "name": "Delta de l’Ebre",
+      "description": "Nature and birdwatching farther south; best planned as a longer outing."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Llevant Beach",
+      "description": "Platja de Llevant, Salou, Spain"
+    },
+    {
+      "name": "Ponent Beach",
+      "description": "Platja de Ponent, Salou, Spain"
+    },
+    {
+      "name": "Capellans Beach",
+      "description": "Platja dels Capellans, Salou, Spain"
+    },
+    {
+      "name": "PortAventura World",
+      "description": "PortAventura World, Vila-seca, Spain"
+    },
+    {
+      "name": "Salou Lighthouse",
+      "description": "Far de Salou, Salou, Spain"
+    },
+    {
+      "name": "Tarragona Roman Amphitheatre",
+      "description": "Amfiteatre de Tarragona, Spain"
+    },
+    {
+      "name": "Cambrils Marina",
+      "description": "Port de Cambrils, Spain"
+    },
+    {
+      "name": "Passeig de Jaume I",
+      "description": "Passeig de Jaume I, Salou, Spain"
+    }
+  ]
+}
