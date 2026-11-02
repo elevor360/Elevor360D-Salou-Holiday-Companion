@@ -1,0 +1,1 @@
+Salou V2 advertising edition. Edit adverts in Universal Advertising Manager V1 and upload the exported advertising/adverts.json and images to the matching folders. Keep original Salou features unchanged. The included sample ad should display on first launch.
